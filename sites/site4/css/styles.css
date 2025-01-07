@@ -1,0 +1,50 @@
+/* 
+  Este archivo contiene los estilos CSS específicos para el cuarto sitio web (site4).
+  Se pueden agregar más estilos según sea necesario para personalizar la apariencia del sitio.
+*/
+
+/* Estilo básico para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Fuente utilizada en el cuerpo */
+    background-color: #f4f4f4; /* Color de fondo del sitio */
+    margin: 0; /* Eliminar márgenes por defecto */
+    padding: 0; /* Eliminar relleno por defecto */
+}
+
+/* Estilo para el encabezado */
+header {
+    background: #35424a; /* Color de fondo del encabezado */
+    color: #ffffff; /* Color del texto en el encabezado */
+    padding: 10px 0; /* Relleno del encabezado */
+    text-align: center; /* Centrar el texto */
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #35424a; /* Color de los enlaces */
+    text-decoration: none; /* Sin subrayado en los enlaces */
+}
+
+/* Estilo para los enlaces al pasar el ratón */
+a:hover {
+    text-decoration: underline; /* Subrayar el enlace al pasar el ratón */
+}
+
+/* Estilo para el contenido principal */
+main {
+    padding: 20px; /* Relleno del contenido principal */
+    background: #ffffff; /* Color de fondo del contenido principal */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra para el contenido */
+}
+
+/* Estilo para el pie de página */
+footer {
+    text-align: center; /* Centrar el texto del pie de página */
+    padding: 10px 0; /* Relleno del pie de página */
+    background: #35424a; /* Color de fondo del pie de página */
+    color: #ffffff; /* Color del texto en el pie de página */
+    position: relative; /* Posición relativa para el pie de página */
+    bottom: 0; /* Alinear al fondo */
+    width: 100%; /* Ancho completo */
+}

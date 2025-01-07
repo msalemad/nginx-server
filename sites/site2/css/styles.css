@@ -1,0 +1,46 @@
+/* 
+  Este archivo contiene los estilos CSS específicos para el segundo sitio web (site2).
+  Aquí puedes agregar tus estilos personalizados para el diseño y la presentación de la página.
+*/
+
+/* Estilo básico para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif; /* Fuente utilizada en el cuerpo */
+    background-color: #f4f4f4; /* Color de fondo de la página */
+    margin: 0; /* Elimina el margen por defecto */
+    padding: 0; /* Elimina el padding por defecto */
+}
+
+/* Estilo para el encabezado */
+header {
+    background: #35424a; /* Color de fondo del encabezado */
+    color: #ffffff; /* Color del texto del encabezado */
+    padding: 10px 0; /* Espaciado interno del encabezado */
+    text-align: center; /* Centra el texto en el encabezado */
+}
+
+/* Estilo para el contenido principal */
+main {
+    padding: 20px; /* Espaciado interno del contenido principal */
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #35424a; /* Color de los enlaces */
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+}
+
+a:hover {
+    text-decoration: underline; /* Subraya el enlace al pasar el mouse */
+}
+
+/* Estilo para el pie de página */
+footer {
+    background: #35424a; /* Color de fondo del pie de página */
+    color: #ffffff; /* Color del texto del pie de página */
+    text-align: center; /* Centra el texto en el pie de página */
+    padding: 10px 0; /* Espaciado interno del pie de página */
+    position: relative; /* Posicionamiento relativo para el pie de página */
+    bottom: 0; /* Alinea el pie de página al fondo */
+    width: 100%; /* Ancho completo del pie de página */
+}

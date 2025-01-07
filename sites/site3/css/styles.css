@@ -1,0 +1,44 @@
+/* 
+  Este archivo contiene los estilos CSS específicos para el tercer sitio web (site3).
+  Se pueden agregar más estilos según sea necesario para personalizar la apariencia del sitio.
+*/
+
+/* Estilo básico para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    background-color: #f4f4f4; /* Color de fondo */
+    margin: 0; /* Sin márgenes */
+    padding: 0; /* Sin relleno */
+}
+
+/* Estilo para el encabezado */
+header {
+    background: #35424a; /* Color de fondo del encabezado */
+    color: #ffffff; /* Color del texto */
+    padding: 20px 0; /* Relleno superior e inferior */
+    text-align: center; /* Centrar el texto */
+}
+
+/* Estilo para el contenido principal */
+main {
+    padding: 20px; /* Relleno alrededor del contenido */
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #35424a; /* Color de los enlaces */
+    text-decoration: none; /* Sin subrayado */
+}
+
+/* Estilo para los enlaces al pasar el mouse */
+a:hover {
+    text-decoration: underline; /* Subrayar al pasar el mouse */
+}
+
+/* Estilo para el pie de página */
+footer {
+    text-align: center; /* Centrar el texto */
+    padding: 10px 0; /* Relleno superior e inferior */
+    background: #35424a; /* Color de fondo del pie de página */
+    color: #ffffff; /* Color del texto */
+}

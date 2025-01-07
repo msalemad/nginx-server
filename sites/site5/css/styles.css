@@ -1,0 +1,46 @@
+/* 
+  Este archivo contiene los estilos CSS específicos para el quinto sitio web.
+  Se pueden agregar más estilos según sea necesario para personalizar la apariencia del sitio.
+*/
+
+/* Estilo básico para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Fuente utilizada para el texto */
+    background-color: #f4f4f4; /* Color de fondo del sitio */
+    margin: 0; /* Eliminar márgenes por defecto */
+    padding: 0; /* Eliminar relleno por defecto */
+}
+
+/* Estilo para el encabezado */
+header {
+    background: #35424a; /* Color de fondo del encabezado */
+    color: #ffffff; /* Color del texto del encabezado */
+    padding: 20px 0; /* Relleno superior e inferior */
+    text-align: center; /* Centrar el texto */
+}
+
+/* Estilo para el contenido principal */
+main {
+    padding: 20px; /* Relleno alrededor del contenido */
+}
+
+/* Estilo para los enlaces */
+a {
+    color: #35424a; /* Color de los enlaces */
+    text-decoration: none; /* Sin subrayado en los enlaces */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayar el enlace al pasar el ratón */
+}
+
+/* Estilo para el pie de página */
+footer {
+    background: #35424a; /* Color de fondo del pie de página */
+    color: #ffffff; /* Color del texto del pie de página */
+    text-align: center; /* Centrar el texto */
+    padding: 10px 0; /* Relleno superior e inferior */
+    position: relative; /* Posicionamiento relativo */
+    bottom: 0; /* Alinear al fondo */
+    width: 100%; /* Ancho completo */
+}
